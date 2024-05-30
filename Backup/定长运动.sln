@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "定长运动", "定长运动\定长运动.csproj", "{31AD9A66-0B5C-4885-AD5A-39D6EC75A0A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31AD9A66-0B5C-4885-AD5A-39D6EC75A0A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31AD9A66-0B5C-4885-AD5A-39D6EC75A0A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31AD9A66-0B5C-4885-AD5A-39D6EC75A0A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31AD9A66-0B5C-4885-AD5A-39D6EC75A0A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
