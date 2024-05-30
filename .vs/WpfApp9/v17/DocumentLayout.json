@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Task-4-28\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F907B64B-A53D-4090-9BC6-CF120B8879D4}|WpfApp9\\WpfApp9.csproj|d:\\c#\\task-4-28\\wpfapp9\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F907B64B-A53D-4090-9BC6-CF120B8879D4}|WpfApp9\\WpfApp9.csproj|solutionrelative:wpfapp9\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F907B64B-A53D-4090-9BC6-CF120B8879D4}|WpfApp9\\WpfApp9.csproj|D:\\C#\\Task-4-28\\wpfapp9\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F907B64B-A53D-4090-9BC6-CF120B8879D4}|WpfApp9\\WpfApp9.csproj|solutionrelative:wpfapp9\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F907B64B-A53D-4090-9BC6-CF120B8879D4}|WpfApp9\\WpfApp9.csproj|D:\\C#\\Task-4-28\\wpfapp9\\qrcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F907B64B-A53D-4090-9BC6-CF120B8879D4}|WpfApp9\\WpfApp9.csproj|solutionrelative:wpfapp9\\qrcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F907B64B-A53D-4090-9BC6-CF120B8879D4}|WpfApp9\\WpfApp9.csproj|D:\\C#\\Task-4-28\\wpfapp9\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F907B64B-A53D-4090-9BC6-CF120B8879D4}|WpfApp9\\WpfApp9.csproj|solutionrelative:wpfapp9\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F907B64B-A53D-4090-9BC6-CF120B8879D4}|WpfApp9\\WpfApp9.csproj|D:\\C#\\Task-4-28\\wpfapp9\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F907B64B-A53D-4090-9BC6-CF120B8879D4}|WpfApp9\\WpfApp9.csproj|solutionrelative:wpfapp9\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F907B64B-A53D-4090-9BC6-CF120B8879D4}|WpfApp9\\WpfApp9.csproj|D:\\C#\\Task-4-28\\wpfapp9\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{F907B64B-A53D-4090-9BC6-CF120B8879D4}|WpfApp9\\WpfApp9.csproj|solutionrelative:wpfapp9\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F907B64B-A53D-4090-9BC6-CF120B8879D4}|WpfApp9\\WpfApp9.csproj|D:\\C#\\Task-4-28\\wpfapp9\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{F907B64B-A53D-4090-9BC6-CF120B8879D4}|WpfApp9\\WpfApp9.csproj|solutionrelative:wpfapp9\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F907B64B-A53D-4090-9BC6-CF120B8879D4}|WpfApp9\\WpfApp9.csproj|D:\\C#\\Task-4-28\\wpfapp9\\readwritexmlfilelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F907B64B-A53D-4090-9BC6-CF120B8879D4}|WpfApp9\\WpfApp9.csproj|solutionrelative:wpfapp9\\readwritexmlfilelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F907B64B-A53D-4090-9BC6-CF120B8879D4}|WpfApp9\\WpfApp9.csproj|D:\\C#\\Task-4-28\\wpfapp9\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F907B64B-A53D-4090-9BC6-CF120B8879D4}|WpfApp9\\WpfApp9.csproj|solutionrelative:wpfapp9\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F907B64B-A53D-4090-9BC6-CF120B8879D4}|WpfApp9\\WpfApp9.csproj|D:\\C#\\Task-4-28\\wpfapp9\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F907B64B-A53D-4090-9BC6-CF120B8879D4}|WpfApp9\\WpfApp9.csproj|solutionrelative:wpfapp9\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\C#\\Task-4-28\\WpfApp9\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WpfApp9\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\C#\\Task-4-28\\WpfApp9\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "WpfApp9\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T03:10:15.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "D:\\C#\\Task-4-28\\WpfApp9\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "WpfApp9\\Properties\\Settings.settings",
+              "ToolTip": "D:\\C#\\Task-4-28\\WpfApp9\\Properties\\Settings.settings",
+              "RelativeToolTip": "WpfApp9\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-05-20T03:10:13.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\C#\\Task-4-28\\WpfApp9\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "WpfApp9\\Properties\\Resources.resx",
+              "ToolTip": "D:\\C#\\Task-4-28\\WpfApp9\\Properties\\Resources.resx",
+              "RelativeToolTip": "WpfApp9\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-28T06:20:38.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\C#\\Task-4-28\\WpfApp9\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp9\\MainWindow.xaml",
+              "ToolTip": "D:\\C#\\Task-4-28\\WpfApp9\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp9\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T05:29:38.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QRCode.cs",
+              "DocumentMoniker": "D:\\C#\\Task-4-28\\WpfApp9\\QRCode.cs",
+              "RelativeDocumentMoniker": "WpfApp9\\QRCode.cs",
+              "ToolTip": "D:\\C#\\Task-4-28\\WpfApp9\\QRCode.cs",
+              "RelativeToolTip": "WpfApp9\\QRCode.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwHoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T06:20:06.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReadWriteXmlFileList.cs",
+              "DocumentMoniker": "D:\\C#\\Task-4-28\\WpfApp9\\ReadWriteXmlFileList.cs",
+              "RelativeDocumentMoniker": "WpfApp9\\ReadWriteXmlFileList.cs",
+              "ToolTip": "D:\\C#\\Task-4-28\\WpfApp9\\ReadWriteXmlFileList.cs",
+              "RelativeToolTip": "WpfApp9\\ReadWriteXmlFileList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T06:07:29.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\C#\\Task-4-28\\WpfApp9\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp9\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\C#\\Task-4-28\\WpfApp9\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp9\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAADwvzgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T05:29:37.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\C#\\Task-4-28\\WpfApp9\\App.config",
+              "RelativeDocumentMoniker": "WpfApp9\\App.config",
+              "ToolTip": "D:\\C#\\Task-4-28\\WpfApp9\\App.config",
+              "RelativeToolTip": "WpfApp9\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-29T01:56:04.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\C#\\Task-4-28\\WpfApp9\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp9\\App.xaml",
+              "ToolTip": "D:\\C#\\Task-4-28\\WpfApp9\\App.xaml",
+              "RelativeToolTip": "WpfApp9\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T01:21:13.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "D:\\C#\\Task-4-28\\WpfApp9\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "WpfApp9\\Properties\\Resources.Designer.cs",
+              "ToolTip": "D:\\C#\\Task-4-28\\WpfApp9\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "WpfApp9\\Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAQwEgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T01:30:11.65Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
