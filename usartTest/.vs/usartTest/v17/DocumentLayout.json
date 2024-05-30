@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\usartTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C152626-BE1C-4556-8FE1-2DD8ACC5CB45}|usartTest\\usartTest.csproj|D:\\C#\\usartTest\\usarttest\\slavestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C152626-BE1C-4556-8FE1-2DD8ACC5CB45}|usartTest\\usartTest.csproj|solutionrelative:usarttest\\slavestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C152626-BE1C-4556-8FE1-2DD8ACC5CB45}|usartTest\\usartTest.csproj|d:\\c#\\usarttest\\usarttest\\modbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C152626-BE1C-4556-8FE1-2DD8ACC5CB45}|usartTest\\usartTest.csproj|solutionrelative:usarttest\\modbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C152626-BE1C-4556-8FE1-2DD8ACC5CB45}|usartTest\\usartTest.csproj|D:\\C#\\usartTest\\usarttest\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C152626-BE1C-4556-8FE1-2DD8ACC5CB45}|usartTest\\usartTest.csproj|solutionrelative:usarttest\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C152626-BE1C-4556-8FE1-2DD8ACC5CB45}|usartTest\\usartTest.csproj|D:\\C#\\usartTest\\usarttest\\serialportsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C152626-BE1C-4556-8FE1-2DD8ACC5CB45}|usartTest\\usartTest.csproj|solutionrelative:usarttest\\serialportsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C152626-BE1C-4556-8FE1-2DD8ACC5CB45}|usartTest\\usartTest.csproj|D:\\C#\\usartTest\\usarttest\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5C152626-BE1C-4556-8FE1-2DD8ACC5CB45}|usartTest\\usartTest.csproj|solutionrelative:usarttest\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C152626-BE1C-4556-8FE1-2DD8ACC5CB45}|usartTest\\usartTest.csproj|D:\\C#\\usartTest\\usarttest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5C152626-BE1C-4556-8FE1-2DD8ACC5CB45}|usartTest\\usartTest.csproj|solutionrelative:usarttest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#\\usartTest\\usartTest\\obj\\Debug\\MainWindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:usartTest\\obj\\Debug\\MainWindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.g.i.cs",
+              "DocumentMoniker": "D:\\C#\\usartTest\\usartTest\\obj\\Debug\\MainWindow.g.i.cs",
+              "RelativeDocumentMoniker": "usartTest\\obj\\Debug\\MainWindow.g.i.cs",
+              "ToolTip": "D:\\C#\\usartTest\\usartTest\\obj\\Debug\\MainWindow.g.i.cs",
+              "RelativeToolTip": "usartTest\\obj\\Debug\\MainWindow.g.i.cs",
+              "ViewState": "AQIAAAEBAAAAAAAAAAAcwBgBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:49:35.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\C#\\usartTest\\usartTest\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "usartTest\\MainWindow.xaml",
+              "ToolTip": "D:\\C#\\usartTest\\usartTest\\MainWindow.xaml",
+              "RelativeToolTip": "usartTest\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-20T01:49:26.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SlaveStation.cs",
+              "DocumentMoniker": "D:\\C#\\usartTest\\usartTest\\SlaveStation.cs",
+              "RelativeDocumentMoniker": "usartTest\\SlaveStation.cs",
+              "ToolTip": "D:\\C#\\usartTest\\usartTest\\SlaveStation.cs",
+              "RelativeToolTip": "usartTest\\SlaveStation.cs",
+              "ViewState": "AQIAAFgBAAAAAAAAAADwv3IBAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:43:05.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Modbus.cs",
+              "DocumentMoniker": "D:\\C#\\usartTest\\usartTest\\Modbus.cs",
+              "RelativeDocumentMoniker": "usartTest\\Modbus.cs",
+              "ToolTip": "D:\\C#\\usartTest\\usartTest\\Modbus.cs",
+              "RelativeToolTip": "usartTest\\Modbus.cs",
+              "ViewState": "AQIAAM0AAAAAAAAAAAAcwOcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:29:00.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SerialPortSettings.cs",
+              "DocumentMoniker": "D:\\C#\\usartTest\\usartTest\\SerialPortSettings.cs",
+              "RelativeDocumentMoniker": "usartTest\\SerialPortSettings.cs",
+              "ToolTip": "D:\\C#\\usartTest\\usartTest\\SerialPortSettings.cs",
+              "RelativeToolTip": "usartTest\\SerialPortSettings.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAswIkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T05:26:20.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\C#\\usartTest\\usartTest\\App.config",
+              "RelativeDocumentMoniker": "usartTest\\App.config",
+              "ToolTip": "D:\\C#\\usartTest\\usartTest\\App.config",
+              "RelativeToolTip": "usartTest\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-20T03:12:52.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\C#\\usartTest\\usartTest\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "usartTest\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\C#\\usartTest\\usartTest\\MainWindow.xaml.cs",
+              "RelativeToolTip": "usartTest\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAO4AAAAAAAAAAAAkwAwBAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T01:49:26.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
